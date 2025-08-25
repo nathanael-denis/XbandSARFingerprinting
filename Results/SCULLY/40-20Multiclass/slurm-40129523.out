@@ -1,0 +1,105 @@
+GNU 13.2.0 is now loaded
+Loading module for CUDA 11.8
+CUDA 11.8 is now loaded
+Loading module for Machine Learning 2024.01
+Machine Learning 2024.01 is now loaded
+
+Loading machine_learning/2024.01
+  Loading requirement: gcc/13.2.0 cuda/11.8
+Loading module for pytorch 2.0
+pytorch 2.0 is now loaded
+Dataset mean: 0.1799, std: 0.7484
+Epoch [1/40] - SupCon Loss: 2.1723
+Epoch [2/40] - SupCon Loss: 1.7912
+Epoch [3/40] - SupCon Loss: 1.7011
+Epoch [4/40] - SupCon Loss: 1.6372
+Epoch [5/40] - SupCon Loss: 1.5894
+Epoch [6/40] - SupCon Loss: 1.5613
+Epoch [7/40] - SupCon Loss: 1.5371
+Epoch [8/40] - SupCon Loss: 1.5148
+Epoch [9/40] - SupCon Loss: 1.4953
+Epoch [10/40] - SupCon Loss: 1.4684
+Epoch [11/40] - SupCon Loss: 1.4617
+Epoch [12/40] - SupCon Loss: 1.4608
+Epoch [13/40] - SupCon Loss: 1.4354
+Epoch [14/40] - SupCon Loss: 1.4291
+Epoch [15/40] - SupCon Loss: 1.4189
+Epoch [16/40] - SupCon Loss: 1.4041
+Epoch [17/40] - SupCon Loss: 1.3964
+Epoch [18/40] - SupCon Loss: 1.3933
+Epoch [19/40] - SupCon Loss: 1.3781
+Epoch [20/40] - SupCon Loss: 1.3774
+Epoch [21/40] - SupCon Loss: 1.3697
+Epoch [22/40] - SupCon Loss: 1.3658
+Epoch [23/40] - SupCon Loss: 1.3434
+Epoch [24/40] - SupCon Loss: 1.3554
+Epoch [25/40] - SupCon Loss: 1.3477
+Epoch [26/40] - SupCon Loss: 1.3263
+Epoch [27/40] - SupCon Loss: 1.3400
+Epoch [28/40] - SupCon Loss: 1.3282
+Epoch [29/40] - SupCon Loss: 1.3161
+Epoch [30/40] - SupCon Loss: 1.3190
+Epoch [31/40] - SupCon Loss: 1.3171
+Epoch [32/40] - SupCon Loss: 1.3099
+Epoch [33/40] - SupCon Loss: 1.2996
+Epoch [34/40] - SupCon Loss: 1.2970
+Epoch [35/40] - SupCon Loss: 1.2886
+Epoch [36/40] - SupCon Loss: 1.2829
+Epoch [37/40] - SupCon Loss: 1.2754
+Epoch [38/40] - SupCon Loss: 1.2732
+Epoch [39/40] - SupCon Loss: 1.2703
+Epoch [40/40] - SupCon Loss: 1.2723
+Class counts: [1276, 1357, 2157, 975, 991, 1773, 1521, 1513, 2038, 1149, 1083, 1912, 1365, 1623, 1104, 1152, 1505, 1490, 1632, 1882, 609, 913, 2518, 1807, 2209, 2121, 1331, 1171, 1593, 1850, 673, 1600, 896, 1551, 2275, 1705, 1240]
+Epoch 1/20, Loss: 0.5925
+F1 Score: 0.7435
+Epoch 2/20, Loss: 0.4198
+F1 Score: 0.7604
+Epoch 3/20, Loss: 0.3938
+F1 Score: 0.7606
+Epoch 4/20, Loss: 0.3817
+F1 Score: 0.7631
+Epoch 5/20, Loss: 0.3729
+F1 Score: 0.7634
+Epoch 6/20, Loss: 0.3636
+F1 Score: 0.7718
+Epoch 7/20, Loss: 0.3562
+F1 Score: 0.7686
+Epoch 8/20, Loss: 0.3508
+F1 Score: 0.7663
+Epoch 9/20, Loss: 0.3462
+F1 Score: 0.7667
+Epoch 10/20, Loss: 0.3403
+F1 Score: 0.7693
+Epoch 11/20, Loss: 0.3354
+F1 Score: 0.7686
+Epoch 12/20, Loss: 0.3304
+F1 Score: 0.7728
+Epoch 13/20, Loss: 0.3283
+F1 Score: 0.7717
+Epoch 14/20, Loss: 0.3238
+F1 Score: 0.7740
+Epoch 15/20, Loss: 0.3217
+F1 Score: 0.7704
+Epoch 16/20, Loss: 0.3178
+F1 Score: 0.7706
+Epoch 17/20, Loss: 0.3152
+F1 Score: 0.7702
+Epoch 18/20, Loss: 0.3122
+F1 Score: 0.7694
+Epoch 19/20, Loss: 0.3088
+F1 Score: 0.7644
+Epoch 20/20, Loss: 0.3069
+F1 Score: 0.7673
+Validation Performance:
+F1 Score: 0.7673
+Test Performance:
+F1 Score: 0.7654
+/sw/rl9g/pytorch-2.0/conda3env/env/lib/python3.8/site-packages/torch/distributed/launch.py:181: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  warnings.warn(

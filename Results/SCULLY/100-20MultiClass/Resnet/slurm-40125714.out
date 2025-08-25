@@ -1,0 +1,165 @@
+GNU 13.2.0 is now loaded
+Loading module for CUDA 11.8
+CUDA 11.8 is now loaded
+Loading module for Machine Learning 2024.01
+Machine Learning 2024.01 is now loaded
+
+Loading machine_learning/2024.01
+  Loading requirement: gcc/13.2.0 cuda/11.8
+Loading module for pytorch 2.0
+pytorch 2.0 is now loaded
+Dataset mean: 0.1799, std: 0.7484
+Epoch [1/100] - SupCon Loss: 2.1770
+Epoch [2/100] - SupCon Loss: 1.7894
+Epoch [3/100] - SupCon Loss: 1.6877
+Epoch [4/100] - SupCon Loss: 1.6259
+Epoch [5/100] - SupCon Loss: 1.5884
+Epoch [6/100] - SupCon Loss: 1.5561
+Epoch [7/100] - SupCon Loss: 1.5278
+Epoch [8/100] - SupCon Loss: 1.4998
+Epoch [9/100] - SupCon Loss: 1.4840
+Epoch [10/100] - SupCon Loss: 1.4700
+Epoch [11/100] - SupCon Loss: 1.4560
+Epoch [12/100] - SupCon Loss: 1.4419
+Epoch [13/100] - SupCon Loss: 1.4278
+Epoch [14/100] - SupCon Loss: 1.4173
+Epoch [15/100] - SupCon Loss: 1.4222
+Epoch [16/100] - SupCon Loss: 1.4042
+Epoch [17/100] - SupCon Loss: 1.3935
+Epoch [18/100] - SupCon Loss: 1.3902
+Epoch [19/100] - SupCon Loss: 1.3743
+Epoch [20/100] - SupCon Loss: 1.3679
+Epoch [21/100] - SupCon Loss: 1.3601
+Epoch [22/100] - SupCon Loss: 1.3494
+Epoch [23/100] - SupCon Loss: 1.3510
+Epoch [24/100] - SupCon Loss: 1.3466
+Epoch [25/100] - SupCon Loss: 1.3281
+Epoch [26/100] - SupCon Loss: 1.3309
+Epoch [27/100] - SupCon Loss: 1.3269
+Epoch [28/100] - SupCon Loss: 1.3191
+Epoch [29/100] - SupCon Loss: 1.3153
+Epoch [30/100] - SupCon Loss: 1.3143
+Epoch [31/100] - SupCon Loss: 1.3063
+Epoch [32/100] - SupCon Loss: 1.3095
+Epoch [33/100] - SupCon Loss: 1.2902
+Epoch [34/100] - SupCon Loss: 1.2886
+Epoch [35/100] - SupCon Loss: 1.2872
+Epoch [36/100] - SupCon Loss: 1.2847
+Epoch [37/100] - SupCon Loss: 1.2835
+Epoch [38/100] - SupCon Loss: 1.2704
+Epoch [39/100] - SupCon Loss: 1.2674
+Epoch [40/100] - SupCon Loss: 1.2658
+Epoch [41/100] - SupCon Loss: 1.2554
+Epoch [42/100] - SupCon Loss: 1.2573
+Epoch [43/100] - SupCon Loss: 1.2509
+Epoch [44/100] - SupCon Loss: 1.2339
+Epoch [45/100] - SupCon Loss: 1.2346
+Epoch [46/100] - SupCon Loss: 1.2308
+Epoch [47/100] - SupCon Loss: 1.2307
+Epoch [48/100] - SupCon Loss: 1.2237
+Epoch [49/100] - SupCon Loss: 1.2196
+Epoch [50/100] - SupCon Loss: 1.2196
+Epoch [51/100] - SupCon Loss: 1.2015
+Epoch [52/100] - SupCon Loss: 1.2086
+Epoch [53/100] - SupCon Loss: 1.1955
+Epoch [54/100] - SupCon Loss: 1.1894
+Epoch [55/100] - SupCon Loss: 1.1863
+Epoch [56/100] - SupCon Loss: 1.1768
+Epoch [57/100] - SupCon Loss: 1.1845
+Epoch [58/100] - SupCon Loss: 1.1767
+Epoch [59/100] - SupCon Loss: 1.1721
+Epoch [60/100] - SupCon Loss: 1.1568
+Epoch [61/100] - SupCon Loss: 1.1653
+Epoch [62/100] - SupCon Loss: 1.1525
+Epoch [63/100] - SupCon Loss: 1.1553
+Epoch [64/100] - SupCon Loss: 1.1534
+Epoch [65/100] - SupCon Loss: 1.1394
+Epoch [66/100] - SupCon Loss: 1.1435
+Epoch [67/100] - SupCon Loss: 1.1413
+Epoch [68/100] - SupCon Loss: 1.1367
+Epoch [69/100] - SupCon Loss: 1.1290
+Epoch [70/100] - SupCon Loss: 1.1231
+Epoch [71/100] - SupCon Loss: 1.1217
+Epoch [72/100] - SupCon Loss: 1.1203
+Epoch [73/100] - SupCon Loss: 1.1106
+Epoch [74/100] - SupCon Loss: 1.1138
+Epoch [75/100] - SupCon Loss: 1.1138
+Epoch [76/100] - SupCon Loss: 1.1035
+Epoch [77/100] - SupCon Loss: 1.1020
+Epoch [78/100] - SupCon Loss: 1.0902
+Epoch [79/100] - SupCon Loss: 1.0943
+Epoch [80/100] - SupCon Loss: 1.0897
+Epoch [81/100] - SupCon Loss: 1.0924
+Epoch [82/100] - SupCon Loss: 1.0850
+Epoch [83/100] - SupCon Loss: 1.0848
+Epoch [84/100] - SupCon Loss: 1.0828
+Epoch [85/100] - SupCon Loss: 1.0823
+Epoch [86/100] - SupCon Loss: 1.0726
+Epoch [87/100] - SupCon Loss: 1.0762
+Epoch [88/100] - SupCon Loss: 1.0673
+Epoch [89/100] - SupCon Loss: 1.0662
+Epoch [90/100] - SupCon Loss: 1.0612
+Epoch [91/100] - SupCon Loss: 1.0621
+Epoch [92/100] - SupCon Loss: 1.0553
+Epoch [93/100] - SupCon Loss: 1.0585
+Epoch [94/100] - SupCon Loss: 1.0436
+Epoch [95/100] - SupCon Loss: 1.0492
+Epoch [96/100] - SupCon Loss: 1.0483
+Epoch [97/100] - SupCon Loss: 1.0434
+Epoch [98/100] - SupCon Loss: 1.0401
+Epoch [99/100] - SupCon Loss: 1.0378
+Epoch [100/100] - SupCon Loss: 1.0405
+Class counts: [1276, 1357, 2157, 975, 991, 1773, 1521, 1513, 2038, 1149, 1083, 1912, 1365, 1623, 1104, 1152, 1505, 1490, 1632, 1882, 609, 913, 2518, 1807, 2209, 2121, 1331, 1171, 1593, 1850, 673, 1600, 896, 1551, 2275, 1705, 1240]
+Epoch 1/20, Loss: 0.4276
+F1 Score: 0.7386
+Epoch 2/20, Loss: 0.2052
+F1 Score: 0.7440
+Epoch 3/20, Loss: 0.1825
+F1 Score: 0.7491
+Epoch 4/20, Loss: 0.1670
+F1 Score: 0.7447
+Epoch 5/20, Loss: 0.1559
+F1 Score: 0.7476
+Epoch 6/20, Loss: 0.1489
+F1 Score: 0.7463
+Epoch 7/20, Loss: 0.1418
+F1 Score: 0.7455
+Epoch 8/20, Loss: 0.1356
+F1 Score: 0.7498
+Epoch 9/20, Loss: 0.1311
+F1 Score: 0.7474
+Epoch 10/20, Loss: 0.1271
+F1 Score: 0.7508
+Epoch 11/20, Loss: 0.1229
+F1 Score: 0.7486
+Epoch 12/20, Loss: 0.1196
+F1 Score: 0.7474
+Epoch 13/20, Loss: 0.1166
+F1 Score: 0.7490
+Epoch 14/20, Loss: 0.1136
+F1 Score: 0.7464
+Epoch 15/20, Loss: 0.1112
+F1 Score: 0.7490
+Epoch 16/20, Loss: 0.1091
+F1 Score: 0.7470
+Epoch 17/20, Loss: 0.1066
+F1 Score: 0.7476
+Epoch 18/20, Loss: 0.1053
+F1 Score: 0.7472
+Epoch 19/20, Loss: 0.1028
+F1 Score: 0.7489
+Epoch 20/20, Loss: 0.1011
+F1 Score: 0.7461
+Validation Performance:
+F1 Score: 0.7461
+Test Performance:
+F1 Score: 0.7483
+/sw/rl9g/pytorch-2.0/conda3env/env/lib/python3.8/site-packages/torch/distributed/launch.py:181: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  warnings.warn(

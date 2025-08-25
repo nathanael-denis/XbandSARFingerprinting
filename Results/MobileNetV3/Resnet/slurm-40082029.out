@@ -1,0 +1,272 @@
+GNU 13.2.0 is now loaded
+Loading module for CUDA 11.8
+CUDA 11.8 is now loaded
+Loading module for Machine Learning 2024.01
+Machine Learning 2024.01 is now loaded
+
+Loading machine_learning/2024.01
+  Loading requirement: gcc/13.2.0 cuda/11.8
+Loading module for pytorch 2.0
+pytorch 2.0 is now loaded
+Epoch 0/119, Loss: 1.5096, Acc: 0.4813
+Validation Acc: 0.4170
+Epoch 1/119, Loss: 1.0151, Acc: 0.6294
+Validation Acc: 0.5664
+Epoch 2/119, Loss: 0.8714, Acc: 0.6756
+Validation Acc: 0.5780
+Epoch 3/119, Loss: 0.7873, Acc: 0.7055
+Validation Acc: 0.3753
+Epoch 4/119, Loss: 0.7300, Acc: 0.7263
+Validation Acc: 0.4476
+Epoch 5/119, Loss: 0.6779, Acc: 0.7438
+Validation Acc: 0.6040
+Epoch 6/119, Loss: 0.6329, Acc: 0.7606
+Validation Acc: 0.5835
+Epoch 7/119, Loss: 0.5974, Acc: 0.7733
+Validation Acc: 0.6233
+Epoch 8/119, Loss: 0.5554, Acc: 0.7884
+Validation Acc: 0.7153
+Epoch 9/119, Loss: 0.5138, Acc: 0.8051
+Validation Acc: 0.6581
+Epoch 10/119, Loss: 0.4824, Acc: 0.8172
+Validation Acc: 0.6912
+Epoch 11/119, Loss: 0.4467, Acc: 0.8297
+Validation Acc: 0.6892
+Epoch 12/119, Loss: 0.4153, Acc: 0.8416
+Validation Acc: 0.6329
+Epoch 13/119, Loss: 0.3843, Acc: 0.8551
+Validation Acc: 0.7024
+Epoch 14/119, Loss: 0.3560, Acc: 0.8659
+Validation Acc: 0.6991
+Epoch 15/119, Loss: 0.3136, Acc: 0.8834
+Validation Acc: 0.6974
+Epoch 16/119, Loss: 0.2968, Acc: 0.8907
+Validation Acc: 0.6854
+Epoch 17/119, Loss: 0.2766, Acc: 0.8983
+Validation Acc: 0.7187
+Epoch 18/119, Loss: 0.2445, Acc: 0.9110
+Validation Acc: 0.5304
+Epoch 19/119, Loss: 0.2340, Acc: 0.9147
+Validation Acc: 0.6688
+Epoch 20/119, Loss: 0.2109, Acc: 0.9237
+Validation Acc: 0.7204
+Epoch 21/119, Loss: 0.2077, Acc: 0.9262
+Validation Acc: 0.6368
+Epoch 22/119, Loss: 0.1906, Acc: 0.9325
+Validation Acc: 0.6196
+Epoch 23/119, Loss: 0.1867, Acc: 0.9349
+Validation Acc: 0.6960
+Epoch 24/119, Loss: 0.1720, Acc: 0.9381
+Validation Acc: 0.7122
+Epoch 25/119, Loss: 0.1701, Acc: 0.9392
+Validation Acc: 0.7029
+Epoch 26/119, Loss: 0.1542, Acc: 0.9457
+Validation Acc: 0.6639
+Epoch 27/119, Loss: 0.1569, Acc: 0.9459
+Validation Acc: 0.7183
+Epoch 28/119, Loss: 0.1485, Acc: 0.9480
+Validation Acc: 0.6386
+Epoch 29/119, Loss: 0.1432, Acc: 0.9510
+Validation Acc: 0.4751
+Epoch 30/119, Loss: 0.1376, Acc: 0.9517
+Validation Acc: 0.6735
+Epoch 31/119, Loss: 0.1360, Acc: 0.9529
+Validation Acc: 0.6230
+Epoch 32/119, Loss: 0.1353, Acc: 0.9539
+Validation Acc: 0.7151
+Epoch 33/119, Loss: 0.1300, Acc: 0.9556
+Validation Acc: 0.6605
+Epoch 34/119, Loss: 0.1222, Acc: 0.9592
+Validation Acc: 0.6909
+Epoch 35/119, Loss: 0.1232, Acc: 0.9584
+Validation Acc: 0.6525
+Epoch 36/119, Loss: 0.1229, Acc: 0.9593
+Validation Acc: 0.6605
+Epoch 37/119, Loss: 0.1128, Acc: 0.9610
+Validation Acc: 0.6700
+Epoch 38/119, Loss: 0.1184, Acc: 0.9602
+Validation Acc: 0.6902
+Epoch 39/119, Loss: 0.1090, Acc: 0.9634
+Validation Acc: 0.6973
+Epoch 40/119, Loss: 0.1160, Acc: 0.9611
+Validation Acc: 0.6484
+Epoch 41/119, Loss: 0.1055, Acc: 0.9648
+Validation Acc: 0.7086
+Epoch 42/119, Loss: 0.1071, Acc: 0.9639
+Validation Acc: 0.5946
+Epoch 43/119, Loss: 0.1042, Acc: 0.9665
+Validation Acc: 0.6161
+Epoch 44/119, Loss: 0.1063, Acc: 0.9652
+Validation Acc: 0.6944
+Epoch 45/119, Loss: 0.0976, Acc: 0.9683
+Validation Acc: 0.4996
+Epoch 46/119, Loss: 0.1018, Acc: 0.9673
+Validation Acc: 0.6546
+Epoch 47/119, Loss: 0.1036, Acc: 0.9664
+Validation Acc: 0.6634
+Epoch 48/119, Loss: 0.0961, Acc: 0.9686
+Validation Acc: 0.6188
+Epoch 49/119, Loss: 0.0967, Acc: 0.9683
+Validation Acc: 0.6730
+Epoch 50/119, Loss: 0.0904, Acc: 0.9707
+Validation Acc: 0.6980
+Epoch 51/119, Loss: 0.0944, Acc: 0.9683
+Validation Acc: 0.7057
+Epoch 52/119, Loss: 0.0894, Acc: 0.9712
+Validation Acc: 0.6759
+Epoch 53/119, Loss: 0.0972, Acc: 0.9687
+Validation Acc: 0.6315
+Epoch 54/119, Loss: 0.0824, Acc: 0.9732
+Validation Acc: 0.6833
+Epoch 55/119, Loss: 0.0897, Acc: 0.9714
+Validation Acc: 0.7105
+Epoch 56/119, Loss: 0.0861, Acc: 0.9728
+Validation Acc: 0.6820
+Epoch 57/119, Loss: 0.0901, Acc: 0.9711
+Validation Acc: 0.6603
+Epoch 58/119, Loss: 0.0790, Acc: 0.9745
+Validation Acc: 0.6645
+Epoch 59/119, Loss: 0.0861, Acc: 0.9724
+Validation Acc: 0.6519
+Epoch 60/119, Loss: 0.0792, Acc: 0.9751
+Validation Acc: 0.6827
+Epoch 61/119, Loss: 0.0838, Acc: 0.9732
+Validation Acc: 0.6991
+Epoch 62/119, Loss: 0.0811, Acc: 0.9743
+Validation Acc: 0.7098
+Epoch 63/119, Loss: 0.0835, Acc: 0.9735
+Validation Acc: 0.6398
+Epoch 64/119, Loss: 0.0777, Acc: 0.9759
+Validation Acc: 0.6821
+Epoch 65/119, Loss: 0.0796, Acc: 0.9747
+Validation Acc: 0.6641
+Epoch 66/119, Loss: 0.0777, Acc: 0.9750
+Validation Acc: 0.7072
+Epoch 67/119, Loss: 0.0815, Acc: 0.9752
+Validation Acc: 0.7093
+Epoch 68/119, Loss: 0.0769, Acc: 0.9765
+Validation Acc: 0.6244
+Epoch 69/119, Loss: 0.0732, Acc: 0.9774
+Validation Acc: 0.7014
+Epoch 70/119, Loss: 0.0771, Acc: 0.9758
+Validation Acc: 0.6825
+Epoch 71/119, Loss: 0.0755, Acc: 0.9760
+Validation Acc: 0.6852
+Epoch 72/119, Loss: 0.0736, Acc: 0.9783
+Validation Acc: 0.7264
+Epoch 73/119, Loss: 0.0795, Acc: 0.9754
+Validation Acc: 0.6990
+Epoch 74/119, Loss: 0.0712, Acc: 0.9786
+Validation Acc: 0.6688
+Epoch 75/119, Loss: 0.0733, Acc: 0.9776
+Validation Acc: 0.6969
+Epoch 76/119, Loss: 0.0746, Acc: 0.9774
+Validation Acc: 0.6388
+Epoch 77/119, Loss: 0.0691, Acc: 0.9786
+Validation Acc: 0.6927
+Epoch 78/119, Loss: 0.0730, Acc: 0.9781
+Validation Acc: 0.6863
+Epoch 79/119, Loss: 0.0714, Acc: 0.9780
+Validation Acc: 0.6756
+Epoch 80/119, Loss: 0.0689, Acc: 0.9789
+Validation Acc: 0.7033
+Epoch 81/119, Loss: 0.0702, Acc: 0.9782
+Validation Acc: 0.6331
+Epoch 82/119, Loss: 0.0714, Acc: 0.9784
+Validation Acc: 0.6855
+Epoch 83/119, Loss: 0.0751, Acc: 0.9778
+Validation Acc: 0.7097
+Epoch 84/119, Loss: 0.0653, Acc: 0.9800
+Validation Acc: 0.7130
+Epoch 85/119, Loss: 0.0683, Acc: 0.9798
+Validation Acc: 0.6832
+Epoch 86/119, Loss: 0.0707, Acc: 0.9795
+Validation Acc: 0.6960
+Epoch 87/119, Loss: 0.0661, Acc: 0.9796
+Validation Acc: 0.6699
+Epoch 88/119, Loss: 0.0617, Acc: 0.9803
+Validation Acc: 0.7319
+Epoch 89/119, Loss: 0.0629, Acc: 0.9803
+Validation Acc: 0.7320
+Epoch 90/119, Loss: 0.0665, Acc: 0.9803
+Validation Acc: 0.7201
+Epoch 91/119, Loss: 0.0645, Acc: 0.9805
+Validation Acc: 0.7246
+Epoch 92/119, Loss: 0.0638, Acc: 0.9802
+Validation Acc: 0.6979
+Epoch 93/119, Loss: 0.0658, Acc: 0.9808
+Validation Acc: 0.7192
+Epoch 94/119, Loss: 0.0626, Acc: 0.9810
+Validation Acc: 0.6217
+Epoch 95/119, Loss: 0.0654, Acc: 0.9808
+Validation Acc: 0.6965
+Epoch 96/119, Loss: 0.0601, Acc: 0.9825
+Validation Acc: 0.6949
+Epoch 97/119, Loss: 0.0692, Acc: 0.9799
+Validation Acc: 0.7308
+Epoch 98/119, Loss: 0.0613, Acc: 0.9821
+Validation Acc: 0.6832
+Epoch 99/119, Loss: 0.0599, Acc: 0.9817
+Validation Acc: 0.6800
+Epoch 100/119, Loss: 0.0586, Acc: 0.9827
+Validation Acc: 0.6903
+Epoch 101/119, Loss: 0.0665, Acc: 0.9801
+Validation Acc: 0.7324
+Epoch 102/119, Loss: 0.0626, Acc: 0.9828
+Validation Acc: 0.7030
+Epoch 103/119, Loss: 0.0592, Acc: 0.9829
+Validation Acc: 0.6912
+Epoch 104/119, Loss: 0.0592, Acc: 0.9828
+Validation Acc: 0.6932
+Epoch 105/119, Loss: 0.0554, Acc: 0.9838
+Validation Acc: 0.7024
+Epoch 106/119, Loss: 0.0629, Acc: 0.9818
+Validation Acc: 0.6912
+Epoch 107/119, Loss: 0.0607, Acc: 0.9827
+Validation Acc: 0.6997
+Epoch 108/119, Loss: 0.0568, Acc: 0.9829
+Validation Acc: 0.6368
+Epoch 109/119, Loss: 0.0593, Acc: 0.9827
+Validation Acc: 0.7144
+Epoch 110/119, Loss: 0.0590, Acc: 0.9825
+Validation Acc: 0.7227
+Epoch 111/119, Loss: 0.0575, Acc: 0.9831
+Validation Acc: 0.6849
+Epoch 112/119, Loss: 0.0607, Acc: 0.9830
+Validation Acc: 0.7086
+Epoch 113/119, Loss: 0.0575, Acc: 0.9840
+Validation Acc: 0.7250
+Epoch 114/119, Loss: 0.0588, Acc: 0.9833
+Validation Acc: 0.7023
+Epoch 115/119, Loss: 0.0541, Acc: 0.9844
+Validation Acc: 0.7209
+Epoch 116/119, Loss: 0.0608, Acc: 0.9834
+Validation Acc: 0.6997
+Epoch 117/119, Loss: 0.0615, Acc: 0.9827
+Validation Acc: 0.7137
+Epoch 118/119, Loss: 0.0539, Acc: 0.9845
+Validation Acc: 0.6894
+Epoch 119/119, Loss: 0.0534, Acc: 0.9850
+Validation Acc: 0.7155
+Best Validation Accuracy: 0.7324
+Accuracy: 0.7385
+Precision: 0.7358
+Recall: 0.7385
+F1-Score: 0.7344
+Confusion Matrix:
+[[334   0   0 ...   0   0   0]
+ [  0 294   0 ...   0   0   0]
+ [  3   0 681 ...   0   1   0]
+ ...
+ [  0   0   3 ... 574   0   9]
+ [  0   0   0 ...   0 488   1]
+ [  0   1   1 ...  24   0 147]]
+/sw/rl9g/pytorch-2.0/conda3env/env/lib/python3.8/site-packages/torch/distributed/launch.py:181: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  warnings.warn(
