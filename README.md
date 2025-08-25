@@ -13,16 +13,16 @@ This repository provides a comprehensive framework for authenticating SAR satell
 ## Repository Structure
 
 - **Documents/**: Contains radio pass information.  
-- **Forecast/**: Scripts related to forecasting or predictive modeling.  
+- **Forecast/**: Scripts to predict radio passes for the next 3 days, tuned to ICEYE but can be adapted to any satellite with a Norad ID.
 - **Plots/**: Creates the figures for the article.  
 - **Results/**: Stores results from experiments and evaluations, in Excel sheets as well as output from Slurm (HPC management software).  
 - **BalancedSplit.py**: Script for creating balanced datasets by ensuring equal representation of classes (not used for the experiments).  
 - **ContrastiveLearning.py**: Implementation of contrastive learning techniques for feature extraction (used for the SCULLY methodology).  
-- **IQtoSpectrograms.py**: Converts raw IQ data into grayscale spectrogram images.  
+- **IQtoSpectrograms.py**: Converts raw IQ data into grayscale spectrograms.  
 - **OneVsRest.py**: Script for implementing one-vs-rest classification strategy (used for the MULDER methodology).  
 - **Prefiltering.py**: Applies magnitude-based filtering to raw data to remove noise and reduce the massive volume of data.  
-- **SNRperSample.py**: Calculates Signal-to-Noise Ratio for a given file.  
-- **UnbalancedSplit.py**: Script for creating unbalanced datasets for testing purposes (used for the experiments). F1-score is preferred over accuracy to handle class imbalances.  
+- **SNRperSample.py**: Calculates Signal-to-Noise Ratio for a given file.  Used to generate a figure in the article.
+- **UnbalancedSplit.py**: Script for creating unbalanced datasets, keeping the natural imbalances in satellite passes (used for the experiments). F1-score is preferred over accuracy to handle class imbalances.  
 - **confusion_matrix_40103630.csv**: CSV file containing confusion matrix data for model evaluation (as an example).  
 
 ---
@@ -38,6 +38,8 @@ pip install -r requirements.txt
 ## Usage
 
 To run the experiments, execute the scripts in the following order:
+
+[   Prefilter --> Convert to spectrograms --> Create datasets by splitting data --> Train the classifier --> Testing  ]
 
 ### 1. Apply Preprocessing Steps
 
