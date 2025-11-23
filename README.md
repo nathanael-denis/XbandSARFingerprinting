@@ -89,6 +89,3 @@ Both approaches output a confusion matrix and a test F1-score.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
